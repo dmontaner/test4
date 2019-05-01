@@ -2,4 +2,4 @@
 
 Hola
 
-[pagina uno](page1)
+[pagina uno](page1.md)
